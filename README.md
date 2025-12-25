@@ -1,4 +1,4 @@
-# Mini Calculator – React
+# Calculator – React
 
 A simple calculator built using React to practice **state management, event handling, and component communication**.
 
